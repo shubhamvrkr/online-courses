@@ -1,4 +1,4 @@
-# Online Couses Assignment
+# Online Courses Assignment
 
 ### Courses And Links
 
