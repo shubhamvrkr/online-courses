@@ -11,4 +11,4 @@ tables.</br>
 
 <b>1:[Algorithms: Design and Analysis (Part2) - Standford](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/course/)</b>
 Topics Covered: Greedy Algorithms (scheduling, minimum spanning trees, clustering, Huffman codes), Dynamic Programming (knapsack, sequence alignment, optimal search trees, shortest paths), NP-Completeness and Analysis of Heuristics, Local Search.</br>
-[View My Certificate](/Standford Algorithms Part 2 - Design and Analysis/certificate.pdf)
+[View My Certificate](https://github.com/shubhamvrkr/online-courses/blob/master/Standford%20Algorithms%20Part%202%20-%20Design%20and%20Analysis/certificate.pdf)
